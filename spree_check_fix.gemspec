@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_check_fix'
+  s.author      = 'Nebulab'
   s.version     = '0.0.1'
   s.summary     = 'Add gem summary here'
   #s.description = 'Add (optional) gem description here'
